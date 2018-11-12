@@ -1,0 +1,2 @@
+# Django
+Django sandbox environment
